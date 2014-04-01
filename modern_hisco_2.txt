@@ -1,0 +1,206 @@
+HISCO, first 2 digits:
+36 Transport Conductors
+37 Mail and Telegraph Distribution Clerks
+38 Telephone and Telegraph Operators
+74 Chemical Processors and Related Workers
+85 Electrical Fitters and Related Electrical and Electronics Workers
+86 Broadcasting and Sound-Equipment Operators and Cinema Projectionists
+96 Stationary Engine and Related Equipment Operators
+
+HISCO, first 3 digits:
+023 Electrical and Electronics Engineers
+024 Mechanical Engineers
+025 Chemical Engineers
+028 Industrial Engineers
+034 Electrical and Electronics Engineering Technicians
+035 Mechanical Engineering Technicians
+036 Chemical Engineering Technicians
+037 Metallurgical Technicians
+041 Aircraft Pilots, Navigators and Flight Engineers
+043 Ship's Engineers
+077 Medical X-Ray Technicians
+163 Photographers and Cameramen
+322 Card- and Tape-Punching Machine Operators 
+342 Automatic Data-Processing Machine Operators 
+431 Technical Sales and Service Advisers
+628 Farm Machinery Operators
+833 Machine-Tool Setter-Operators
+834 Machine-Tool Operators
+841 Machinery Fitters and Machine Assemblers
+843 Motor-Vehicle Mechanics
+844 Aircraft Engine Mechanics
+849 Machinery Fitters, Machine Assemblers and Precision Instrument Makers (except Electrical)
+NEC
+871 Plumbers and Pipe Fitters
+872 Welders and Flame Cutters
+873 Sheet-metal Workers
+901 Rubber and Plastics Product Makers
+902 Tyre Makers and Vulcanisers
+922 Printing Pressmen
+925 Photo-Engravers
+927 Photographic Dark-Room Workers
+956 Insulators
+973 Crane and Hoist Operators
+980 Transport Workers, Specialisation Unknown
+982 Ships' Engine-Room Ratings
+983 Railway Engine Drivers and Firemen
+984 Railway Brakemen, Signalmen and Shunters
+985 Motor-Vehicle Drivers
+
+HISCO, 5 digits:
+01220 Mechanics Physicist
+01240 Light Physicist
+01250 Sound Physicist
+01260 Electricity and Magnetism Physicist
+01270 Electronics Physicist
+01280 Nuclear Physicist
+02230 Highway and Street Construction Engineer
+02235 Aerodrome Construction Engineer
+02240 Railway Construction Engineer
+02250 Sanitary Engineer
+02720 Coal-Mining Engineer
+02730 Metal-Mining Engineer
+02740 Petroleum and Natural Gas Engineer
+03120 Mechanical Draughtsman
+03130 Electrical Draughtsman
+03820 Petroleum and Natural Gas Extraction Technician 
+08420 Computer Programmer
+13180 Teacher in Industrial Arts (Third Level)
+15935 Radio and Television Journalist
+16240 Industrial and Commercial Products Designer 
+17430 Motion Picture Producer
+17920 Radio and Television Announcer
+32140 Typist
+32150 T eletypist
+33170 Post Office Counter Clerk
+39950 Office Machine Operator (Reproduction Processes) 
+56020 Laundering Machine-Operator
+56030 Dry-Cleaning Machine-Operator
+56060 Laundry Pressing Machine-Operator
+59120 Travel Guide
+59970 Aircraft Cabin Attendant
+62350 Rubber Plantation Worker
+62520 Milker (Machine)
+71120 Cutting-Machine Operator (Mine)
+71125 Mining-Machine Operator, Specialisation Unknown 
+71130 Drilling-Machine Operator (Mine and Quarry) 
+71140 Continuous Mining-Machine Operator
+71230 Mineral-Crushing-Machine Operator
+71240 Mineral-Milling-Machine Operator
+71320 Derrickman (Oil and Gas Wells)
+71330 Rotary Driller (Oil and Gas Wells)
+71340 Cable Driller (Oil and Gas Wells)
+71350 Cementer (Oil and Gas Wells)
+71360 Well-Puller (Oil and Gas Wells)
+71370 Acidiser (Oil and Gas Wells)
+71380 Well-Driller and Borer (except Oil and Gas Wells) 71390 Other Well-Drillers, Borers and Related Workers 
+73220 Edge Sawyer
+73230 Band-Saw Operator
+73240 Veneer Cutter
+73250 Plywood Core-Laying-Machine Operator
+73260 Plywood Press-Operator
+73320 Wood Ginder
+73330 Chipperman
+
+73340 Digester Operator
+75125 Fibre Mixer and Blender
+75130 Fibre Picker
+75140 Fibre Lapper
+75145 Fibre Comber
+75150 Fibre Drawer
+75155 Fibre Rover
+75230 Doubler
+75240 Twister
+75250 Winder
+75330 Knitting-Machine Setter
+75350 Jacquard Card Cutter
+75390 Other Weaving- and Knitting-Machine Setters and Pattern-Card Preparers 
+75415 Beam Warper
+75425 Loom Threader (Machine)
+75440 Cloth Weaver (Machine, except Jacquard Loom)
+75450 Lace Weaver (Machine)
+75460 Carpet Weaver (Machine)
+75465 Net Maker (Machine)
+75520 Knitting Machine-Operator (Garment)
+75530 Knitting Machine-Operator (Hosiery)
+75540 Knitter (Hand-Operated Machine)
+75925 Braid Maker (Machine)
+75935 Crocheter (Machine)
+75945 Fur Fibre Mixer (Machine)
+76135 Hide Flesher and Dehairer (Machine)
+77230 Diffuser Operator (Beet Sugar)
+77260 Continuous Sugar-Refining Machine Operator
+77430 Foodstuffs Freezer
+77440 Foodstuffs Dehydrator
+77520 Dairy Product Pasteuriser
+77930 Hydrogenation Operator (Oils and Fats)
+78230 Cigar Maker (Machine)
+78320 Cigarette Maker (Machine)
+79550 Sewing-Machine Operator
+79570 Machine Embroiderer
+79630 Vehicle Upholsterer
+80220 Clicker Cutter (Machine)
+80350 Leather Sewer, Machine
+81205 Woodworking Machine Setter, General
+81208 Woodworking Machine-Operator, General
+81210 Woodworking Machine Setter-Operator, General
+81220 Precision Sawyer
+81240 Wood-Lathe Setter-Operator
+81250 Wood Shaping-Machine Setter-Operator
+81260 Wood-Routing-Machine Setter-Operator
+81270 Wood-Planing-Machine Setter-Operator
+81280 Wood-Spindle Carving-Machine Setter-Operator
+81290 Other Woodworking-Machine Operators
+82050 Stone Lathe-Operator
+83130 Drop-Hammer Operator
+83140 Forging-Press Operator
+83520 Buffing- and Polishing-Machine Operator
+83530 Tool Grinder, Machine Tools
+83970 Metal-Bending-Machine Operator
+83980 Power-Shear Operator
+87465 Machine Riveter
+87470 Pneumatic Riveter
+89128 Glass-Blowing-Machine Operator
+89136 Glass-Pressing-Machine Operator
+89140 Glass-Drawing-Machine Operator 
+89168 Lens Grinding-Machine Operator 
+89172 Lens Polishing-Machine Operator
+89970 Fibreglass Maker
+91030 Paper Box Maker (Machine)
+91040 Cardboard Lining-Machine Operator
+91050 Paper Box Cutting- and Creasing-Press Operator 
+91060 Cardboard-Press Operator
+91070 Paper Bag and Envelope Maker (Machine)
+91080 Cellophane Bag Maker (Machine)
+92130 Linotype Operator
+92135 Monotype Keyboard Operator
+92140 Type-Casting Machine-Operator
+92320 Stereotyper
+92330 Electrotyper
+92440 Metal Printing Roller Engraver (Machine)
+92630 Bookbinder (Machine)
+92650 Book Embosser (Machine)
+93960 Automobile Painter
+94330 Asbestos Cement Products Machine-Operator
+94970 Photographic Film and Paper Maker
+95340 Asphalt Roofer
+95760 Vehicle Glazier
+95960 Underwater Worker
+97130 Railway and Road Vehicle Loader
+97135 Aircraft Loader
+97155 Machine Packer
+97160 Machine Labeller
+97170 Bale-Press Operator
+97420 Excavating-Machine Operator
+97425 Trench-Digging-Machine Operator
+97430 Bulldozer Operator
+97440 Pile-Driver Operator
+97445 Road-Grader and Scraper Operator
+97450 Road-Roller Operator
+97455 Concrete Paving-Machine Operator
+97460 Tar-Spreading Machine Operator
+97470 Concrete-Mixer Operator
+97475 Concrete-Mixing-Plant Operator
+97490 Other Earth-Moving and Related Machinery Operators 
+99930 Factory Worker
+
